@@ -1,5 +1,7 @@
 # NYUHSL Data Catalog
 
+*First update to the readme file.*
+
 Welcome to the NYU Health Sciences Library's Data Catalog project. Our aim is to encourage the sharing and reuse of research data among insitutions and individuals by providing a simple yet powerful search platform to expose existing datasets to the researchers who can use it. There is a basic backend interface for administrators to manage the metadata which describes these datasets.
 
 ## Components
